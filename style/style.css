@@ -1,19 +1,22 @@
+@import "nav.css";
 @import "section.css";
 @import "footer.css";
+
 body{
-    width: 940px;
+    width: 1050px;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
 }
 
-header, section, article, footer,aside{
+header, section, article, footer{
     display: block;
 }
-header,footer{
+header,footer,figure{
     padding: 0px;
     text-align: center;
 }
-aside{
+
+aside {
     float: left;
 }
 

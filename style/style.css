@@ -3,3 +3,11 @@ body{
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
 }
+
+header, section, article, footer{
+    display: block;
+}
+header,footer{
+    padding: 0px;
+    text-align: center;
+}

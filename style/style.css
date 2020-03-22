@@ -1,6 +1,7 @@
 @import "nav.css";
 @import "section.css";
 @import "footer.css";
+@import "aside.css";
 
 body{
     width: 1050px;
@@ -15,8 +16,3 @@ header,footer,figure{
     padding: 0px;
     text-align: center;
 }
-
-aside {
-    float: left;
-}
-

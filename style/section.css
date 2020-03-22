@@ -1,6 +1,6 @@
 section{
-    float: right;
-    width: 700px;
+    float: left;
+    width: 500px;
     padding-left: 20px;
     border-left: 2px dashed rgb(32, 142, 216);    
 }

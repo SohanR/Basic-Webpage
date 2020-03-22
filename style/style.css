@@ -14,9 +14,3 @@ header,footer{
 aside{
     float: left;
 }
-section{
-    float: right;
-    width: 700px;
-    padding-left: 20px;
-    border-left: 2px dashed rgb(32, 142, 216);    
-}

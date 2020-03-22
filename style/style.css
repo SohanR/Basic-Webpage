@@ -1,3 +1,5 @@
+@import "section.css";
+@import "footer.css";
 body{
     width: 940px;
     margin: 0 auto;
@@ -14,3 +16,4 @@ header,footer{
 aside{
     float: left;
 }
+
